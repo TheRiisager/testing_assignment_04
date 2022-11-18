@@ -1,0 +1,1 @@
+Too small to test properly, it has some unit tests and a single integration test revolving around the win_conditions module.
